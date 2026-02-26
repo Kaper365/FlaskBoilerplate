@@ -1,4 +1,4 @@
--# Teaching material for MAKiT.wtf
+*Teaching material for MAKiT.wtf*
 # How to setup?
 1. Clone repository
 2. Create a python virtualenv
